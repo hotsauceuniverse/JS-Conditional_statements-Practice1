@@ -1,1 +1,1 @@
-# JS-Practice
+# JS-Conditional_statements-Practice
